@@ -1,11 +1,6 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/e967c2a013a1aa82fa3b1289c4388e24.git:MyCube.groovy": [
-      "https://gist.github.com/e967c2a013a1aa82fa3b1289c4388e24.git",
-      "MyCube.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.25.2",
     "fontsize": 12.0,
